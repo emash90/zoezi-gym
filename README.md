@@ -6,6 +6,12 @@ This project is built using React and APIs from Rapid API and Google Youtube API
 
 Zoezi aims to promote proper ways of doing certain exercises and also help in identify which exercise to do to target specific muscle in your body. Use the the search bar to search for either the body part you would like to exercise such as chest or abs or you can search for the specific exercise that you would like to do such as squats or deadlifts then scroll below to see some of the gifs on how to do the exercise properly. 
 
+## Technologies used to development
+
+The site is built using ReactJs utilizing material UI components.
+
+Work-out Gifs and exercise details are from ExerciseDB API on Rapid API and the Youtube Search and Download also from Rapid API provides the youtube videos on the exercise details page. 
+
 ## Live Site
 
 The site is deployed on netlify. Navigate to https://zoezi-gym.netlify.app/ for the live version of the site.
